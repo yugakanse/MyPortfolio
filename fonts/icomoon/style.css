@@ -2853,9 +2853,9 @@
 .icon-chrome_reader_mode:before {
   content: "\e86d";
 }
-.icon-close2:before {
+/* .icon-close2:before {
   content: "\e5cd";
-}
+} */
 .icon-clear_all:before {
   content: "\e0b8";
 }
